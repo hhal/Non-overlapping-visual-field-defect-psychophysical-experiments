@@ -6,3 +6,5 @@ All codes use Matlab, psychtoolbox and psignifit. Codes were written and tested 
 
 For more information or questions you can contact me via email: m.gazanchian@umcg.nl
 
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 955590.
+
